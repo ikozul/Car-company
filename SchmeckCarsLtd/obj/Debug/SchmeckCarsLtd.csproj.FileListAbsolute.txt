@@ -1,0 +1,7 @@
+C:\Users\kozul\Desktop\SchmeckCarsLtd\SchmeckCarsLtd\bin\Debug\SchmeckCarsLtd.exe.config
+C:\Users\kozul\Desktop\SchmeckCarsLtd\SchmeckCarsLtd\bin\Debug\SchmeckCarsLtd.exe
+C:\Users\kozul\Desktop\SchmeckCarsLtd\SchmeckCarsLtd\bin\Debug\SchmeckCarsLtd.pdb
+C:\Users\kozul\Desktop\SchmeckCarsLtd\SchmeckCarsLtd\obj\Debug\SchmeckCarsLtd.csprojAssemblyReference.cache
+C:\Users\kozul\Desktop\SchmeckCarsLtd\SchmeckCarsLtd\obj\Debug\SchmeckCarsLtd.csproj.CoreCompileInputs.cache
+C:\Users\kozul\Desktop\SchmeckCarsLtd\SchmeckCarsLtd\obj\Debug\SchmeckCarsLtd.exe
+C:\Users\kozul\Desktop\SchmeckCarsLtd\SchmeckCarsLtd\obj\Debug\SchmeckCarsLtd.pdb
